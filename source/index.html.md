@@ -30,5 +30,5 @@ The Encoded Listener API provides a way for all the different blockchain transac
  be easily consumed via a common REST-ful API. The API allows consumers to create subscriptions 
  and receive blockchain events in real-time using Webhook callbacks.
 
-<img src="images/figures/encoded-listeners.png" alt="Encoded Listener Figure" />
+<img src="images/figures/aces-encoded-listeners.png" alt="Encoded Listener Figure" />
 

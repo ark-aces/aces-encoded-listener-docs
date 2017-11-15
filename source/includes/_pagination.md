@@ -1,6 +1,8 @@
 
 # Pagination
 
+> Example request:
+
 ```shell
 url="http://localhost/subscriptions/3985723987423/events"
 url="$url?pageSize=100"
@@ -19,6 +21,8 @@ request.setContinuation("933502938509238509283059");
 
 Page<Subscription> subscriptionsPage = client.getSubscriptionsPage(request);
 ```
+
+> Example response:
 
 ```json
 {

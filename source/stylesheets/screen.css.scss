@@ -581,9 +581,12 @@ html, body {
   }
 
   blockquote {
+
+    margin: 0;
+
     &>p {
       background-color: $code-annotation-bg;
-      padding: $code-annotation-padding 4px;
+      padding: 0 4px;
       color: #eee;
     }
   }

@@ -30,8 +30,10 @@ $primary-color: #f0373c;
 ////////////////////
 $nav-bg: #f4f4f4 !default;
 
+$code-color: #17191B;
 $lang-select-bg: #17191B !default;
 $examples-bg: $lang-select-bg*1.55 !default;
+
 $lang-select-pressed-bg: $examples-bg*.9  !default; // color of language tab bg when mouse is pressed
 $code-bg: $lang-select-bg*1.25 !default;
 $code-annotation-bg: $examples-bg !default;
