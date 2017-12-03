@@ -21,6 +21,9 @@ search: true
 
 # ACES Encoded Listener API Docs
 
+<aside class="warning">
+This page is deprecated. Visit the <a href="https://ark-aces.github.io/aces-listener-docs/">latest version</a>.
+</aside>
 
 The ACES Encoded Listener API Specification defines the API interface for blockchain listeners. 
 [SDKs](https://github.com/ark-aces/aces-encoded-listener-api#sdks)
