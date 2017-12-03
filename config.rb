@@ -1,6 +1,8 @@
 # Unique header generation
 require './lib/unique_head.rb'
 
+redirect "index.html", to: "https://ark-aces.github.io/aces-listener-docs/"
+
 # Markdown
 set :markdown_engine, :redcarpet
 set :markdown,
